@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 04064129-824e-a37f-053d-15c1788b5bf5
 resourcetype: Document
 title: biane_ess.pdf
 uid: e182e2b0-d26e-4359-155f-3d51a2f7127f

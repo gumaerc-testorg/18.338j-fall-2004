@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 04064129-824e-a37f-053d-15c1788b5bf5
 resourcetype: Document
 title: mandp.pdf
 uid: 4aaadd9c-5350-b0b0-293f-e9af97504a0e

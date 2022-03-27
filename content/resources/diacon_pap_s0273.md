@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 04064129-824e-a37f-053d-15c1788b5bf5
 resourcetype: Document
 title: diacon_pap_S0273.pdf
 uid: 3100804b-bd5d-43e7-c54d-db8135df6c8e
