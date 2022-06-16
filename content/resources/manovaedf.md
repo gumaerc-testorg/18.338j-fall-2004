@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: MATLAB supporting file for Experiments with the Classical Ensembles.
-file: /media/courses/18-338j-infinite-random-matrix-theory-fall-2004/b1d9ccbbd0d4bdce316f1331c0de91b1_manovaedf.m
+file: /courses/18-338j-infinite-random-matrix-theory-fall-2004/b1d9ccbbd0d4bdce316f1331c0de91b1_manovaedf.m
 file_type: text/plain
 learning_resource_types:
 - Lecture Notes
@@ -13,3 +13,5 @@ resourcetype: Other
 title: manovaedf.m
 uid: b1d9ccbb-d0d4-bdce-316f-1331c0de91b1
 ---
+MATLAB supporting file for Experiments with the Classical Ensembles.
+

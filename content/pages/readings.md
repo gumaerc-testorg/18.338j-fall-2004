@@ -1,10 +1,15 @@
 ---
 content_type: page
+description: ''
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
 title: Readings
 uid: 04064129-824e-a37f-053d-15c1788b5bf5
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 {{< tableopen >}}
@@ -31,7 +36,7 @@ Readings
 Introduction
 {{< tdclose >}}
 {{< tdopen >}}
-Advances in Random Matrix Theory ([PDF]({{< baseurl >}}/resources/tools))
+Advances in Random Matrix Theory ({{% resource_link de114a16-f14f-0751-1027-bd02fc2a003a "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -241,7 +246,7 @@ Tracy Widom Distribution
 {{< tdopen >}}
 Tracy-Widom's Paper: [On the distribution of the largest eigenvalue in principal components analysis](https://projecteuclid.org/download/pdf_1/euclid.aos/1009210544)  
   
-Per's Paper ([PDF]({{< baseurl >}}/resources/numrand_report))
+Per's Paper ({{% resource_link c6e176e2-0183-778b-acd8-9da6794237bf "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -255,7 +260,7 @@ Eigenvalue Spectrum Fluctuations
 {{< tdopen >}}
 
 
-Johansson's Paper 1: ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Shape Fluctuations and Random Matrices (PDF)](http://arxiv.org/pdf/math/9903134.pdf)  
+Johansson's Paper 1: [Shape Fluctuations and Random Matrices (PDF)](http://arxiv.org/pdf/math/9903134.pdf)  
   
 Johansson's Paper 2: [On fluctuations of eigenvalues of random Hermitian matrices](https://projecteuclid.org/download/pdf_1/euclid.dmj/1077231893)  
   
@@ -285,7 +290,7 @@ Dr. Roland Speicher Talk
 Free Probability and Fluctuations
 {{< tdclose >}}
 {{< tdopen >}}
-Speicher and Mingo: Paper 1, Paper 2 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://arxiv.org/PS_cache/arxiv/pdf/0903/0903.4601v2.pdf))
+Speicher and Mingo: Paper 1, Paper 2 ([PDF](http://arxiv.org/PS_cache/arxiv/pdf/0903/0903.4601v2.pdf))
 {{< tdclose >}}
 
 {{< trclose >}}

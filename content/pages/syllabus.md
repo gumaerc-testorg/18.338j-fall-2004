@@ -1,9 +1,14 @@
 ---
 content_type: page
+description: ''
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
 uid: ce7bf71e-168b-967e-11be-61e5ffe31f5d
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 Course Meeting Times
@@ -25,7 +30,7 @@ Our aim is to touch upon various branches of the study of infinite random matric
 Prerequisites
 -------------
 
-No particular prerequisites are needed. We assume that students have had an undergraduate course in Linear Algebra ([18.06](/courses/18-06-linear-algebra-spring-2005)) or its equivalent and some exposure to probability ([6.041](/courses/6-041-probabilistic-systems-analysis-and-applied-probability-spring-2006/) or [6.042J](/courses/6-042j-mathematics-for-computer-science-fall-2010/) are more than sufficient). Knowledge of combinatorial theory is a bonus. A familiarity with MATLAB® will also be useful.
+No particular prerequisites are needed. We assume that students have had an undergraduate course in Linear Algebra ([18.06](/courses/18-06-linear-algebra-spring-2005)) or its equivalent and some exposure to probability ([6.041](/courses/6-041-probabilistic-systems-analysis-and-applied-probability-spring-2006) or [6.042J](/courses/6-042j-mathematics-for-computer-science-fall-2010) are more than sufficient). Knowledge of combinatorial theory is a bonus. A familiarity with MATLAB® will also be useful.
 
 Content
 -------
@@ -50,14 +55,14 @@ Homework assignments will be handed out bi-weekly. They will mainly consist of M
 Mid-Term Project
 ----------------
 
-You will be asked to read a paper on a topic of interest to you that involves random matrix theory. See the [project]({{< baseurl >}}/pages/projects) section for more information.
+You will be asked to read a paper on a topic of interest to you that involves random matrix theory. See the {{% resource_link 8078623c-3779-9385-5a96-6ed40d24e942 "project" %}} section for more information.
 
 Semester Project
 ----------------
 
 The semester project can be an extension of the mid-term project if it sustains your interest. Otherwise, you will be asked to come up with some insights into a random matrix problem that is of interest to you.
 
-See the [project]({{< baseurl >}}/pages/projects) section for more information.
+See the {{% resource_link 8078623c-3779-9385-5a96-6ed40d24e942 "project" %}} section for more information.
 
 Grading
 -------
@@ -67,4 +72,4 @@ Since this is an advanced graduate class on a very active research area, the gra
 Textbooks
 ---------
 
-There are no textbooks covering a majority portion of the material we will be studying in this course. Please see the [readings]({{< baseurl >}}/pages/readings) section for more information.
+There are no textbooks covering a majority portion of the material we will be studying in this course. Please see the {{% resource_link 04064129-824e-a37f-053d-15c1788b5bf5 "readings" %}} section for more information.
