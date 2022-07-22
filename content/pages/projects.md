@@ -1,7 +1,16 @@
 ---
 content_type: page
+description: This section explains the types of mid-term projects and semester projects.
+  Semester projects can be the extension of mid-term projects.
+learning_resource_types:
+- Projects
+ocw_type: CourseSection
 title: Projects
 uid: 8078623c-3779-9385-5a96-6ed40d24e942
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 Mid-term Project
@@ -104,7 +113,7 @@ Multiuser Receivers, Random Matrices, and Free Probability ([PDF](http://www.cma
   
 [Asymptotic Eigenvalue Moments for Linear Multiuser Detection](http://web.mit.edu/18.325/www/asymptotic-eigenvalue-moments-for.pdf) - Verdu  
   
-Statistical Analysis of the Capacity of MIMO Frequency Selective Reyleigh Fading Channels (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](https://pdfs.semanticscholar.org/cfbf/48a5c3da40bbafc669c752baddf96c7ce90b.pdf)) - Scaglione  
+Statistical Analysis of the Capacity of MIMO Frequency Selective Reyleigh Fading Channels ([PDF](https://pdfs.semanticscholar.org/cfbf/48a5c3da40bbafc669c752baddf96c7ce90b.pdf)) - Scaglione  
   
 The Statistics of the MIMO Frequency Selective Fading AWGN Channel Capacity - Scaglione  
   

@@ -1,7 +1,14 @@
 ---
 content_type: page
+description: It contains streaming videos of lectures and also the .pdf versions.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Related Resources
 uid: 0570c265-b702-dfbc-1cfa-aea9eee79560
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 Workshops on Random Matrices
