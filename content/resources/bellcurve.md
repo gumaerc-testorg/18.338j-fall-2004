@@ -5,6 +5,7 @@ file: /courses/18-338j-infinite-random-matrix-theory-fall-2004/7c5028da7d82ea536
 file_type: text/plain
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: bellcurve.m
 uid: 7c5028da-7d82-ea53-6f01-2d4e2459f57c
 ---
 MATLAB supporting file for the Histogramming assignment.
-

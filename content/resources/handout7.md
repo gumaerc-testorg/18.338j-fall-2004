@@ -6,6 +6,7 @@ file: /courses/18-338j-infinite-random-matrix-theory-fall-2004/d1c8b80994335e758
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -19,4 +20,3 @@ video_metadata:
   youtube_id: null
 ---
 Handout #7 contains notes, graphs, and diagrams related to numerical methods in random matrices. (Courtesy of Per-Olof Persson. Used with permission.)
-

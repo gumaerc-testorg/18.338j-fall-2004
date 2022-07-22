@@ -6,6 +6,7 @@ file: /courses/18-338j-infinite-random-matrix-theory-fall-2004/de114a16f14f07511
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -19,4 +20,3 @@ video_metadata:
   youtube_id: null
 ---
 Slides for a presentation calling for more tools in order to further advances in random matrix theory.
-

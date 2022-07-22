@@ -5,6 +5,7 @@ file: /courses/18-338j-infinite-random-matrix-theory-fall-2004/0cfdb708e0920f77d
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -18,4 +19,3 @@ video_metadata:
   youtube_id: null
 ---
 Handout #2 contains lecture notes, graphs, and diagrams related to histogramming.
-

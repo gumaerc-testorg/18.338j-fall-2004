@@ -5,6 +5,7 @@ file: /courses/18-338j-infinite-random-matrix-theory-fall-2004/b1d9ccbbd0d4bdce3
 file_type: text/plain
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: manovaedf.m
 uid: b1d9ccbb-d0d4-bdce-316f-1331c0de91b1
 ---
 MATLAB supporting file for Experiments with the Classical Ensembles.
-

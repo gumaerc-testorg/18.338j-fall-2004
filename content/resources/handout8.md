@@ -7,6 +7,7 @@ file: /courses/18-338j-infinite-random-matrix-theory-fall-2004/32cdd9e33dc1e9ee3
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -20,4 +21,3 @@ video_metadata:
   youtube_id: null
 ---
 A requirement of this course is that the students experiment with a random matrix problem that is of interest to them. This handout contains some ideas provided by the instructor for the project.
-

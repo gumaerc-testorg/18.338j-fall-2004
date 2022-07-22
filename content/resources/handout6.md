@@ -6,6 +6,7 @@ file: /courses/18-338j-infinite-random-matrix-theory-fall-2004/80923a904069fa5e5
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -19,4 +20,3 @@ video_metadata:
   youtube_id: null
 ---
 Handout #6 provides the essential elements needed to understand finite random matrix theory.
-

@@ -5,6 +5,7 @@ file: /courses/18-338j-infinite-random-matrix-theory-fall-2004/90c6a4b0fe370d1ed
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -18,4 +19,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource deals with the introduction and contents of the course.
-

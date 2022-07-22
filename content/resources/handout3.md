@@ -6,6 +6,7 @@ file: /courses/18-338j-infinite-random-matrix-theory-fall-2004/3ebc6aa307da8fdee
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -19,4 +20,3 @@ video_metadata:
   youtube_id: null
 ---
 Handout #3 contains lecture notes, diagrams, and instructions for Experiments with the Classical Ensembles.
-
