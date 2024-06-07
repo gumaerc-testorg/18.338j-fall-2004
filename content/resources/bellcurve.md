@@ -2,6 +2,7 @@
 content_type: resource
 description: MATLAB supporting file for the Histogramming assignment.
 file: /courses/18-338j-infinite-random-matrix-theory-fall-2004/7c5028da7d82ea536f012d4e2459f57c_bellcurve.m
+file_size: 412
 file_type: text/plain
 learning_resource_types:
 - Lecture Notes

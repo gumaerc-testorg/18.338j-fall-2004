@@ -3,6 +3,7 @@ content_type: resource
 description: 'Handout #7 contains notes, graphs, and diagrams related to numerical
   methods in random matrices. (Courtesy of Per-Olof Persson. Used with permission.)'
 file: /courses/18-338j-infinite-random-matrix-theory-fall-2004/d1c8b80994335e758cb3bb6f6b5f2a40_handout7.pdf
+file_size: 179048
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

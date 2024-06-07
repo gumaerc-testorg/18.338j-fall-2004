@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/18-338j-infinite-random-matrix-theory-fall-2004/4aaadd9c5350b0b0293fe9af97504a0e_mandp.pdf
+file_size: 338343
 file_type: application/pdf
 learning_resource_types:
 - Readings
