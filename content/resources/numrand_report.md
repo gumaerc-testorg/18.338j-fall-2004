@@ -4,6 +4,7 @@ description: This resource deals with the simulation of eigenvalue spacing distr
   and largest eigenvalue distributions. (Courtesy of Per ?Olof Persson. Used with
   permission.)
 file: /courses/18-338j-infinite-random-matrix-theory-fall-2004/c6e176e20183778bacd89da6794237bf_numrand_report.pdf
+file_size: 300985
 file_type: application/pdf
 learning_resource_types:
 - Readings

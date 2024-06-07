@@ -4,6 +4,7 @@ description: A requirement of this course is that the students experiment with a
   matrix problem that is of interest to them. This handout contains some ideas provided
   by the instructor for the project.
 file: /courses/18-338j-infinite-random-matrix-theory-fall-2004/32cdd9e33dc1e9ee33b9d27421f03a15_handout8.pdf
+file_size: 60025
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
