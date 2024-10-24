@@ -13,13 +13,13 @@ video_metadata:
 ---
 ## Workshops on Random Matrices
 
-[Free probability workshop at MSRI](http://www.msri.org/workshops/9)   
+[Free probability workshop at MSRI](http://www.msri.org/workshops/9)    
 Contains streaming videos of lectures by some of the prominent people involved in free probability. Also contains .pdf versions of their slides. Some, but not all, is related to aspects of infinite random matrix theory.
 
-[Random Matrix Models workshop at MSRI](http://www.msri.org/web/msri/scientific/workshops/show/-/event/Wm187)   
+[Random Matrix Models workshop at MSRI](http://www.msri.org/web/msri/scientific/workshops/show/-/event/Wm187)    
 Contains streaming videos lectures by (mostly) physicists and mathematicians involved in, generally speaking, finite random matrix theory.
 
-[Workshop on Random Matrices at FoCM](http://www.mit.edu/~raj/focm.html)   
+[Workshop on Random Matrices at FoCM](http://www.mit.edu/~raj/focm.html)    
 Workshop on the mathematics and applications of Finite and Infinite Random Matrix Theory. Links contained are useful for getting a sense of the state-of-the-art in the theory and applications of Random Matrix Theory.
 
 ## Other Notable Workshops
@@ -30,7 +30,7 @@ Workshop on the mathematics and applications of Finite and Infinite Random Matri
 
 Articles on Random Matrix Theory may be found in the following journals.
 
-[ArXiV](http://de.arxiv.org/)   
+[ArXiV](https://arxiv.org/)    
 Contains pre-prints related to random matrix theory. Sometimes the articles are published under "free probability", and "integrable systems" though a keyword search should suffice.
 
 [Journal of Multivariate Analysis and Applications](https://www.journals.elsevier.com/journal-of-multivariate-analysis)
