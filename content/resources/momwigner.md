@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: MATLAB supporting file for the Histogramming assignment.
-file: /courses/18-338j-infinite-random-matrix-theory-fall-2004/148b712e2ed8c73d3ce8e9ea58550f31_momwigner.m
+file: /ol-ocw-studio-app/courses/18-338j-infinite-random-matrix-theory-fall-2004/148b712e2ed8c73d3ce8e9ea58550f31_momwigner.m
 file_size: 1262
 file_type: text/plain
 learning_resource_types:

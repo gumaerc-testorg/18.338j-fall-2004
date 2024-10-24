@@ -39,13 +39,13 @@ Other Derivations ([PDF](http://www.physik.uni-bielefeld.de/bibos/old-bibos-site
 {{< tdclose >}}{{< tdopen >}}
 The Laguerre Ensemble: Marcenko-Pastur Theorem
 {{< tdclose >}}{{< tdopen >}}
-Jonsson's Paper: [Some limit theorems for the eigenvalues of a sample covariance matrix](http://dx.doi.org/10.1016/0047-259X(82)90080-X)
+Jonsson's Paper: [Some limit theorems for the eigenvalues of a sample covariance matrix](http://dx.doi.org/10.1016/0047-259X%2882%2990080-X)
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 4
 {{< tdclose >}}{{< tdopen >}}
 The Jacobi Ensemble: McKay's Random Graph Theorem
 {{< tdclose >}}{{< tdopen >}}
-McKay's Paper: [The expected eigenvalue distribution of a large regular graph](http://dx.doi.org/10.1016/0024-3795(81)90150-6)
+McKay's Paper: [The expected eigenvalue distribution of a large regular graph](http://dx.doi.org/10.1016/0024-3795%2881%2990150-6)
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 5
 {{< tdclose >}}{{< tdopen >}}
@@ -63,7 +63,7 @@ Dr. Anna Scaglione Talk
 {{< tdclose >}}{{< tdopen >}}
 Orthogonal Polynomials and the Classical Matrix Ensembles
 {{< tdclose >}}{{< tdopen >}}
-Ioana's Paper: [Matrix Models for Beta Ensembles](http://de.arxiv.org/abs/math-ph/0206043)
+Ioana's Paper: [Matrix Models for Beta Ensembles](http://arxiv.org/abs/math-ph/0206043)
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 16
 {{< tdclose >}}{{< tdopen >}}
@@ -96,7 +96,7 @@ Johansson's Paper 1: [Shape Fluctuations and Random Matrices (PDF)](http://arxi
 
 Johansson's Paper 2: [On fluctuations of eigenvalues of random Hermitian matrices](https://projecteuclid.org/download/pdf_1/euclid.dmj/1077231893)
 
-Ioana's Paper: [Eigenvalues of Hermite and Laguerre ensembles: Large Beta Asymptotics](http://de.arxiv.org/abs/math-ph/0403029)
+Ioana's Paper: [Eigenvalues of Hermite and Laguerre ensembles: Large Beta Asymptotics](https://arxiv.org/abs/math-ph/0403029)
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 20
@@ -127,7 +127,7 @@ Symmetric Group Representations and Free Probability
 {{< tdclose >}}{{< tdopen >}}
 MOPs
 {{< tdclose >}}{{< tdopen >}}
-Ioana's Paper: [MOPS: Multivariate Orthogonal Polynomials (symbolically)](http://de.arxiv.org/abs/math-ph/0409066)
+Ioana's Paper: [MOPS: Multivariate Orthogonal Polynomials (symbolically)](https://arxiv.org/abs/math-ph/0409066)
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 25
 {{< tdclose >}}{{< tdopen >}}

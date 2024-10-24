@@ -17,9 +17,9 @@ video_metadata:
 
 You will be asked to read a paper on a topic of interest to you that involves random matrix theory and present it via some mixture of the following perspectives:
 
-- Write a description of greater clarity than the original publication, or    
+- Write a description of greater clarity than the original publication, or     
      
-- Devise an improved solution to the problem under consideration, and write up your improvement (with appropriate discussion of the original solution).    
+- Devise an improved solution to the problem under consideration, and write up your improvement (with appropriate discussion of the original solution).     
      
 - Implement the result in MATLAB® in order to study its performance in practice when the random matrices are finite. Considerations include choice of random matrix result, design of good tests, interpretation of results, and design and analysis of heuristics for improving performance in practice.
 
@@ -43,9 +43,9 @@ Random Growth Processes
 
 [On the Second Eigenvalue and Random Walks in Random d-Regular Graphs](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.27.8473) - Friedman
 
-[Random Vicious Walks and Random Matrices](http://academic.research.microsoft.com/Publication/100454/random-vicious-walks-and-random-matrices) - Baik
+[Random Vicious Walks and Random Matrices](https://arxiv.org/abs/math/0001022) - Baik
 
-[Toeplitz Determinants, Random Growth and Determinantal Processes](http://de.arxiv.org/abs/math.PR/0304368) - Johansson
+[Toeplitz Determinants, Random Growth and Determinantal Processes](http://arxiv.org/abs/math.PR/0304368) - Johansson
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 Proofs of Semicircle Law
@@ -59,15 +59,15 @@ Some Elementary Results around the Wigner Semicircle Law ([PDF](https://bibos.ma
 Random Matrices with Complex Eigenvalues
 {{< tdclose >}}{{< tdopen >}}
 
-Non-Hermition Random Matrices ([PDF](http://www.maths.qmw.ac.uk/~boris/diabl.pdf)) - Khoruzhenko
+Non-Hermition Random Matrices - Khoruzhenko
 
-[Regular Spacings of Complex Eigenvalues in the One-Dimensional Non-Hermitian Anderson Model](http://www.maths.qmul.ac.uk/~boris/spacings.html) - Khoruzhenko
+[Regular Spacings of Complex Eigenvalues in the One-Dimensional Non-Hermitian Anderson Model](https://link.springer.com/article/10.1007/s00220-003-0854-0) - Khoruzhenko
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 Functions for Random Matrices
 {{< tdclose >}}{{< tdopen >}}
 
-[Correlation Functions, Cluster Functions and Spacing Distributions for Random Matrices](http://de.arxiv.org/abs/solv-int/9804004) - Tracy and Widom
+[Correlation Functions, Cluster Functions and Spacing Distributions for Random Matrices](http://arxiv.org/abs/solv-int/9804004) - Tracy and Widom
 
 [Shape Fluctuations and Random Matrices](http://link.springer.com/article/10.1007%2Fs002200050027) - Johansson
 
@@ -79,7 +79,7 @@ On the Distribution of the Largest Principal Component ([PDF](https://projecteuc
 Communication Theory
 {{< tdclose >}}{{< tdopen >}}
 
-Multiuser Receivers, Random Matrices, and Free Probability ([PDF](http://www.cmap.polytechnique.fr/IMG/pdf/Tse.pdf)) - Tse
+Multiuser Receivers, Random Matrices, and Free Probability - Tse
 
 [Asymptotic Eigenvalue Moments for Linear Multiuser Detection](http://web.mit.edu/18.325/www/asymptotic-eigenvalue-moments-for.pdf) - Verdu
 
@@ -103,13 +103,13 @@ Environmental Issues for MIMO Capacity ([PDF](http://www.eecs.umich.edu/~hero/Pr
 Free Probability and Addition of Random Matrices
 {{< tdclose >}}{{< tdopen >}}
 
-Multiuser Receivers, Random Matrices, and Free Probability ([PDF](http://www.eecs.berkeley.edu/~dtse/free.pdf)) - Tse
+Multiuser Receivers, Random Matrices, and Free Probability - Tse
 
 Free Probability Theory and Random Matrices ([PS](http://www.mast.queensu.ca/~speicher/papers/Peters.ps)) - Speicher
 
-[On the Law of Addition of Random Matrices](http://de.arxiv.org/abs/math-ph/0003043) - Pastur and Vasilchuk
+[On the Law of Addition of Random Matrices](http://arxiv.org/abs/math-ph/0003043) - Pastur and Vasilchuk
 
-[Law of Addition in Random Matrix Theory](http://de.arxiv.org/abs/cond-mat/9602146) - Zee
+[Law of Addition in Random Matrix Theory](https://arxiv.org/abs/cond-mat/9602146) - Zee
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 Finite Fields
@@ -153,7 +153,7 @@ Computational Biology
 
 [Theoretical Limitations of Massively Parallel Biology](http://slideplayer.com/slide/5222574/) - Szallasi, Periwal, et. al.
 
-[RNA Folding and Large N Matrix Theory](http://academic.research.microsoft.com/Publication/11863641/rna-folding-and-large-n-matrix-theory) - Zee
+[RNA Folding and Large N Matrix Theory](https://arxiv.org/abs/cond-mat/0106359) - Zee
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 Financial Analysis
