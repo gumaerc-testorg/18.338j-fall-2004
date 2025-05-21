@@ -2,7 +2,7 @@
 content_type: resource
 description: 'MATLAB supporting file to be used in conjunction with Handout #5, Tridiagonal
   Matrices, Orthogonal Polynomials and the Classical Random Matrix Ensembles.'
-file: /ol-ocw-studio-app/courses/18-338j-infinite-random-matrix-theory-fall-2004/a524a8a4cb329c1e9f0c93278343372d_trijacobi.m
+file: /courses/18-338j-infinite-random-matrix-theory-fall-2004/a524a8a4cb329c1e9f0c93278343372d_trijacobi.m
 file_size: 1468
 file_type: text/plain
 learning_resource_types:
