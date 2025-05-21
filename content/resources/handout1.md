@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource explains course overview.
-file: /ol-ocw-studio-app/courses/18-338j-infinite-random-matrix-theory-fall-2004/470742076986106c6b419f0a8b89bb30_handout1.pdf
+file: /courses/18-338j-infinite-random-matrix-theory-fall-2004/470742076986106c6b419f0a8b89bb30_handout1.pdf
 file_size: 51133
 file_type: application/pdf
 learning_resource_types:

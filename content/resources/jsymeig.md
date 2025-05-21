@@ -2,7 +2,7 @@
 content_type: resource
 description: 'MATLAB supporting file to be used in conjunction with Handout #6, Essentials
   of Finite Random Matrix Theory.'
-file: /ol-ocw-studio-app/courses/18-338j-infinite-random-matrix-theory-fall-2004/37003b7aa6b8a54e1f4b0b457c6c5276_jsymeig.m
+file: /courses/18-338j-infinite-random-matrix-theory-fall-2004/37003b7aa6b8a54e1f4b0b457c6c5276_jsymeig.m
 file_size: 1851
 file_type: text/plain
 learning_resource_types:
