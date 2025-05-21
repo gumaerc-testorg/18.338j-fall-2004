@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: MATLAB supporting file for Experiments with the Classical Ensembles.
-file: /ol-ocw-studio-app/courses/18-338j-infinite-random-matrix-theory-fall-2004/52ec8cdd77a1e3e23d4a92ff2340dc91_manova.m
+file: /courses/18-338j-infinite-random-matrix-theory-fall-2004/52ec8cdd77a1e3e23d4a92ff2340dc91_manova.m
 file_size: 957
 file_type: text/plain
 learning_resource_types:

@@ -3,7 +3,7 @@ content_type: resource
 description: 'Handout #5 contains lecture notes, graphs, and diagrams related to Tridiagonal
   Matrices, Orthogonal Polynomials, and the Classical Random Matrix Ensembles. (Courtesy
   of Brian Sutton. Used with permission.)'
-file: /ol-ocw-studio-app/courses/18-338j-infinite-random-matrix-theory-fall-2004/c21f4d8e2cb443aca3bcc26011012169_handout5.pdf
+file: /courses/18-338j-infinite-random-matrix-theory-fall-2004/c21f4d8e2cb443aca3bcc26011012169_handout5.pdf
 file_size: 81648
 file_type: application/pdf
 learning_resource_types:

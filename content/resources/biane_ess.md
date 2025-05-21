@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/18-338j-infinite-random-matrix-theory-fall-2004/e182e2b0d26e4359155f3d51a2f7127f_biane_ess.pdf
+file: /courses/18-338j-infinite-random-matrix-theory-fall-2004/e182e2b0d26e4359155f3d51a2f7127f_biane_ess.pdf
 file_size: 340946
 file_type: application/pdf
 learning_resource_types:
