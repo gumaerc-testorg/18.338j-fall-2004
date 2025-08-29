@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Handout #2 contains lecture notes, graphs, and diagrams related to histogramming.'
-file: /courses/18-338j-infinite-random-matrix-theory-fall-2004/0cfdb708e0920f77dc2e2cd96f7db37a_handout2.pdf
+file: /ol-ocw-studio-app/courses/18-338j-infinite-random-matrix-theory-fall-2004/0cfdb708e0920f77dc2e2cd96f7db37a_handout2.pdf
 file_size: 83931
 file_type: application/pdf
 learning_resource_types:
