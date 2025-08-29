@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/18-338j-infinite-random-matrix-theory-fall-2004/d56121d44665a6d7c32ad9c30369b4a6_peters.pdf
+file: /ol-ocw-studio-app/courses/18-338j-infinite-random-matrix-theory-fall-2004/d56121d44665a6d7c32ad9c30369b4a6_peters.pdf
 file_size: 329417
 file_type: application/pdf
 learning_resource_types:
