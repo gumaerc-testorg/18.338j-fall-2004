@@ -13,62 +13,62 @@ video_metadata:
 ---
 ## Workshops on Random Matrices
 
-[Free probability workshop at MSRI](http://www.msri.org/workshops/9)    
+{{% resource_link "d670ee9a-a0dc-4ab1-be15-f20442ca624b" "Free probability workshop at MSRI" %}}    
 Contains streaming videos of lectures by some of the prominent people involved in free probability. Also contains .pdf versions of their slides. Some, but not all, is related to aspects of infinite random matrix theory.
 
-[Random Matrix Models workshop at MSRI](http://www.msri.org/web/msri/scientific/workshops/show/-/event/Wm187)    
+{{% resource_link "4aa02441-048a-4aee-b967-052e14f0c48a" "Random Matrix Models workshop at MSRI" %}}    
 Contains streaming videos lectures by (mostly) physicists and mathematicians involved in, generally speaking, finite random matrix theory.
 
-[Workshop on Random Matrices at FoCM](http://www.mit.edu/~raj/focm.html)    
+{{% resource_link "eac816e1-467e-4512-befc-8c00515bd0c6" "Workshop on Random Matrices at FoCM" %}}    
 Workshop on the mathematics and applications of Finite and Infinite Random Matrix Theory. Links contained are useful for getting a sense of the state-of-the-art in the theory and applications of Random Matrix Theory.
 
 ## Other Notable Workshops
 
-[Workshop on Random Matrices and Other Random Objects](http://www.math.ethz.ch/u/felder/Research/RandomMatrices)
+{{% resource_link "1fde853b-0386-4dde-92fb-b5a58a2e9294" "Workshop on Random Matrices and Other Random Objects" %}}
 
 ## Journals
 
 Articles on Random Matrix Theory may be found in the following journals.
 
-[ArXiV](https://arxiv.org/)    
+{{% resource_link "d4a6b137-b80e-492d-b2be-b2f4131ba967" "ArXiV" %}}    
 Contains pre-prints related to random matrix theory. Sometimes the articles are published under "free probability", and "integrable systems" though a keyword search should suffice.
 
-[Journal of Multivariate Analysis and Applications](https://www.journals.elsevier.com/journal-of-multivariate-analysis)
+{{% resource_link "1d533990-a44b-456a-b164-713e75911964" "Journal of Multivariate Analysis and Applications" %}}
 
-[SIAM Matrix Analysis and Applications](https://www.siam.org/publications/journals/siam-journal-on-matrix-analysis-and-applications-simax)
+{{% resource_link "ccd7b083-aa0e-4d37-b95e-7717c1e4eee5" "SIAM Matrix Analysis and Applications" %}}
 
 ## Prominent Researchers in Free Probability
 
-Dan Virgil Voiculescu (UC Berkeley). Bio ([PDF](http://www.ams.org/notices/200405/comm-nas.pdf))
+Dan Virgil Voiculescu (UC Berkeley). Bio ({{% resource_link "99cbbb95-e4fc-49da-9e8e-5934a0516923" "PDF" %}})
 
-[Roland Speicher (Queens University)](http://www.mast.queensu.ca/~speicher/)
+{{% resource_link "df756130-075a-41aa-90a9-bef11c7856c4" "Roland Speicher (Queens University)" %}}
 
-[Ken Dykema (Texas A&M)](http://www.math.tamu.edu/~Ken.Dykema/)
+{{% resource_link "6ce44466-5e75-4fd8-a437-9f1ee41a9c85" "Ken Dykema (Texas A&M)" %}}
 
-[Denes Petz (Budapest University of Technology and Economics)](http://www.math.bme.hu/~petz/)
+{{% resource_link "49e0bd7a-ee0d-4593-9ab4-b277764013c5" "Denes Petz (Budapest University of Technology and Economics)" %}}
 
-[Alexandru Nica (University of Waterloo)](http://www.math.uwaterloo.ca/~anica/)
+{{% resource_link "d3edcfdc-5b41-4f58-9777-0ae783f15327" "Alexandru Nica (University of Waterloo)" %}}
 
-[Uffe Haagerup (University of Southern Denmark)](http://www.math.ku.dk/~haagerup/index.php)
+{{% resource_link "57a74ed2-d885-47af-8464-ed8ad9632cb2" "Uffe Haagerup (University of Southern Denmark)" %}}
 
-[James Mingo (Queens University)](http://www.mast.queensu.ca/~mingo/)
+{{% resource_link "846758c1-05b4-469c-91db-194434d3644b" "James Mingo (Queens University)" %}}
 
-[Michael Anshelevich (UC Riverside)](http://math.ucsd.edu/~williams/seminars/prob/ansh.html)
+{{% resource_link "95f738ab-d39f-4c87-9c37-dd0de5b6b998" "Michael Anshelevich (UC Riverside)" %}}
 
-[Piotr Sniady (University of Wroclaw)](https://www.researchgate.net/profile/Piotr_Sniady)
+{{% resource_link "4b5cfb69-c64b-47ea-a2ce-b776f0bcf325" "Piotr Sniady (University of Wroclaw)" %}}
 
 ## Prominent Researchers in Infinite Random Matrix Theory
 
-[Jack Silverstein (NCSU)](https://math.sciences.ncsu.edu/people/jack/)
+{{% resource_link "e90ece25-3eee-4d04-b29e-6f8fa974185d" "Jack Silverstein (NCSU)" %}}
 
-[Peter Forrester (University of Melbourne)](http://www.findanexpert.unimelb.edu.au/display/person13298)
+{{% resource_link "2f478090-ddb5-41b5-92cf-7d0c120200af" "Peter Forrester (University of Melbourne)" %}}
 
-[Zhidong Bai (National University of Singapore)](https://twas.org/directory/bai-zhidong)
+{{% resource_link "b48f23db-1c5f-452f-95e3-125a1f884a79" "Zhidong Bai (National University of Singapore)" %}}
 
-[Iain Johnstone (Stanford)](http://www-stat.stanford.edu/~imj/)
+{{% resource_link "85cd9c58-98e5-4e6a-9fe7-ad023e52fbdf" "Iain Johnstone (Stanford)" %}}
 
-[Craig Tracy (UC Davis)](http://www.math.ucdavis.edu/~tracy/)
+{{% resource_link "5a0fd37d-b8c8-41c8-b3a0-a06fb1b598b2" "Craig Tracy (UC Davis)" %}}
 
-[Harold Widom (UC Santa Cruz)](http://widom.math.ucsc.edu/)
+{{% resource_link "1dc55b33-7167-42a8-9714-59efe83184a9" "Harold Widom (UC Santa Cruz)" %}}
 
-[Alexander Soshnikov (UC Davis)](http://www.math.ucdavis.edu/~soshniko/)
+{{% resource_link "736d2c8c-0e3b-4475-b48c-f51738cbe95b" "Alexander Soshnikov (UC Davis)" %}}
